@@ -1,3 +1,4 @@
+// Read this also: https://blog.golang.org/go-slices-usage-and-internals
 package main
 
 import "fmt"
